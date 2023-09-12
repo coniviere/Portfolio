@@ -55,10 +55,10 @@ body {
 .skillsSection {
   background: linear-gradient(
     270deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+    #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
   color: #fff;
 }
@@ -66,10 +66,10 @@ body {
 .contactSection {
   background: linear-gradient(
     90deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+    #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
   color: #fff;
 }
@@ -140,10 +140,10 @@ body {
   font-weight: 400;
   color: linear-gradient(
     270deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+    #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
 }
 
@@ -178,10 +178,10 @@ body {
   color: #ffff;
   background: linear-gradient(
     270deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+    #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
   opacity: 0.7;
   transition: 0.3s;
@@ -202,17 +202,17 @@ body {
 .filter .current {
   background: linear-gradient(
     270deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+    #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
   border-color: linear-gradient(
     270deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+   #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
   color: #fff;
 }
@@ -348,10 +348,10 @@ body {
 #navigation {
   background: linear-gradient(
     90deg,
-    rgb(243, 242, 247) 0%,
-    rgb(162, 204, 223) 0%,
-    rgb(86, 206, 228) 0%,
-    rgb(10, 194, 231) 100%
+    #d3c0b3  0%,
+    #e07f3f  0%,
+    #e66b19  0%,
+    #853703  100%
   );
   padding: 20px 10px;
   z-index: 100;
