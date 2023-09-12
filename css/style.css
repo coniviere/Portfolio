@@ -49,17 +49,11 @@ body {
 }
 
 .aboutImage {
-  max-width: 100%;
+  max-width: 40%;
 }
 
 .skillsSection {
-  background: linear-gradient(
-    270deg,
-    #d3c0b3  0%,
-    #e07f3f  0%,
-    #e66b19  0%,
-    #853703  100%
-  );
+  background: rgb(27, 27, 27);
   color: #fff;
 }
 
@@ -94,7 +88,7 @@ body {
 }
 
 .chart .percent {
-  color: #000;
+  color: #f8f2f2;
   line-height: 152px;
   display: inline-block;
   font-size: 35px;
@@ -140,10 +134,10 @@ body {
   font-weight: 400;
   color: linear-gradient(
     270deg,
-    #d3c0b3  0%,
-    #e07f3f  0%,
-    #e66b19  0%,
-    #853703  100%
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 0%,
+    rgba(19, 146, 7, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
   );
 }
 
@@ -209,7 +203,7 @@ body {
   );
   border-color: linear-gradient(
     270deg,
-   #d3c0b3  0%,
+    #d3c0b3  0%,
     #e07f3f  0%,
     #e66b19  0%,
     #853703  100%
@@ -346,13 +340,7 @@ body {
 }
 
 #navigation {
-  background: linear-gradient(
-    90deg,
-    #d3c0b3  0%,
-    #e07f3f  0%,
-    #e66b19  0%,
-    #853703  100%
-  );
+  background-color: rgb(27, 27, 27);
   padding: 20px 10px;
   z-index: 100;
   width: 100%;
@@ -367,7 +355,7 @@ body {
 }
 
 #navigation li a:hover {
-  color: rgb(0, 57, 90);
+  color: rgb(231, 228, 52);
   opacity: 0.6;
   transition: 0.3s;
 }
